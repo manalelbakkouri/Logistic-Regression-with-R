@@ -1,6 +1,6 @@
    # Logistic-Regression-with-R
 
-# 🔧 Predictive Maintenance Analysis
+##🔧 Predictive Maintenance Analysis
 
 ## 📌 Project Overview
 This project focuses on **predictive maintenance** using an industrial dataset. The goal is to analyze machine failures based on operational conditions and equipment status. By leveraging statistical tests and regression modeling, we aim to enhance failure prediction and prevention.
